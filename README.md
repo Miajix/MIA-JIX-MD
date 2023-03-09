@@ -1,8 +1,8 @@
-##                       CYBER-X TESTING WHATSAPP BOT
+##                       𝕸𝖎𝖆♰𝕵𝖎𝖝 TESTING WHATSAPP BOT
 
-<p align = center>   <img src="https://telegra.ph/file/71c859102f3625d06204b.jpg" alt="GIF" width="250" height="250"/> </p>
+<p align = center>   <img src="jix.jpg" alt="GIF" width="250" height="250"/> </p>
 
-<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="MIA-JIX" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
@@ -33,6 +33,7 @@ https://chat.whatsapp.com/CwFuybm14L697Viv4fvbE3
 ## ALL THE CREDITS GOES TO ORIGINAL REPO OWNER DGNEON (CHEEMS BOT-MD)
 
 ## UPDATES
+<p align = center>   <img src="mia_jix.jpg"
 
 ```2022.08.22 - Published```
 
@@ -41,3 +42,5 @@ https://chat.whatsapp.com/CwFuybm14L697Viv4fvbE3
 ```2022.08.25 - AntiTag Removed```
 
 ```2022.09.08 - Costomizeble Footer , APK Downloader , Tiktok Updated , New Alive with Costomizable Alive Massage and etc```
+
+<p align = center>   <img src="mia_jix.jpg"
