@@ -1,4 +1,4 @@
-//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
+//MIA-JIX  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
 // EXAM ඉවර උනාම ඉතුරු ටික දෙන්නම් 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
@@ -25,7 +25,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //VIDEO MENU 
-global.vidmenu = fs.readFileSync("./LocalData/theme/cyber.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("mia.mp4") //gif and video menu
 
 //DOCUMENT VARIANTS
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
